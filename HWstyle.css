@@ -1,0 +1,29 @@
+ul.a {
+    list-style-type: circle;
+}
+
+html{
+    background-color: black;
+    color: white;
+}
+
+h2{
+    font-size: 150%;
+    font-family: Chalkboard;
+}
+
+h4{
+    font-family: "Comic Sans MS";
+    font-size: 120%;
+    color: lightcoral;
+}
+
+ul{
+    color: orange;
+    font-family: fantasy;
+}
+
+ol{
+    color: greenyellow;
+    font-family: "Big Caslon"
+}
