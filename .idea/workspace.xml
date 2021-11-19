@@ -57,21 +57,21 @@
       <recent name="$PROJECT_DIR$/algo/Lesson 1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.two_lowest_elements">
-    <configuration name="below_arithmetical_mean" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.buy_and_sell_stock_2">
+    <configuration name="buy_and_sell_stock" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/HW3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/Lesson_4" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/HW3/below_arithmetical_mean.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/Lesson_4/buy_and_sell_stock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,20 +80,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="mountain_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="buy_and_sell_stock_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/Lesson_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/Lesson_4" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/Lesson_3/mountain_array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/Lesson_4/buy_and_sell_stock_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,20 +102,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="move_zeros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="delete_duplicates_from_sorted_array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/Lesson_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/Lesson_4" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/Lesson_3/move_zeros.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/Lesson_4/delete_duplicates_from_sorted_array.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="enunarate_all_primes_to_n" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/Lesson_4" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/Lesson_4/enunarate_all_primes_to_n.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,42 +168,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="two_lowest_elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sum_between_min_and_max" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/HW3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/Lesson_4" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/HW3/two_lowest_elements.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="two_sums" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/Lesson_3" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/Lesson_3/two_sums.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/Lesson_4/sum_between_min_and_max.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.two_lowest_elements" />
-        <item itemvalue="Python.below_arithmetical_mean" />
-        <item itemvalue="Python.two_sums" />
-        <item itemvalue="Python.move_zeros" />
-        <item itemvalue="Python.mountain_array" />
+        <item itemvalue="Python.buy_and_sell_stock_2" />
+        <item itemvalue="Python.buy_and_sell_stock" />
+        <item itemvalue="Python.enunarate_all_primes_to_n" />
+        <item itemvalue="Python.delete_duplicates_from_sorted_array" />
+        <item itemvalue="Python.sum_between_min_and_max" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +211,7 @@
       <workItem from="1636446447684" duration="416000" />
       <workItem from="1636452542592" duration="40237000" />
       <workItem from="1636982581243" duration="495000" />
-      <workItem from="1637310390846" duration="15007000" />
+      <workItem from="1637310390846" duration="27636000" />
     </task>
     <servers />
   </component>
@@ -295,19 +295,26 @@
     <SUITE FILE_PATH="coverage/algorithmsrepo$almost_palindrome.coverage" NAME="almost_palindrome Coverage Results" MODIFIED="1636979307001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$max_number.coverage" NAME="max_number Coverage Results" MODIFIED="1636551110601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW1" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$reverse_string.coverage" NAME="reverse_string Coverage Results" MODIFIED="1636979736477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
+    <SUITE FILE_PATH="coverage/algorithmsrepo$delete_duplicates_from_sorted_array.coverage" NAME="delete_duplicates_from_sorted_array Coverage Results" MODIFIED="1637347673255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_4" />
+    <SUITE FILE_PATH="coverage/algorithmsrepo$sum_and_multiplication_list.coverage" NAME="sum_and_multiplication_list Coverage Results" MODIFIED="1637337995811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_4" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$Even_First.coverage" NAME="Even_First Coverage Results" MODIFIED="1637311202114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW2" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$two_sums.coverage" NAME="two_sums Coverage Results" MODIFIED="1637326485738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_3" />
+    <SUITE FILE_PATH="coverage/algorithmsrepo$buy_and_sell_stock_2.coverage" NAME="buy_and_sell_stock_2 Coverage Results" MODIFIED="1637352146888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_4" />
+    <SUITE FILE_PATH="coverage/algorithmsrepo$buy_and_sell_stock.coverage" NAME="buy_and_sell_stock Coverage Results" MODIFIED="1637351390427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_4" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$sum_of_digits.coverage" NAME="sum_of_digits Coverage Results" MODIFIED="1636549439323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW1" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$string_compression.coverage" NAME="string_compression Coverage Results" MODIFIED="1636981348584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$lesson_4_lists.coverage" NAME="lesson_4_lists Coverage Results" MODIFIED="1637321328725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_3" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$anagram.coverage" NAME="anagram Coverage Results" MODIFIED="1636969146116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
-    <SUITE FILE_PATH="coverage/algorithmsrepo$two_lowest_elements.coverage" NAME="two_lowest_elements Coverage Results" MODIFIED="1637337266225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW3" />
+    <SUITE FILE_PATH="coverage/algorithmsrepo$two_lowest_elements.coverage" NAME="two_lowest_elements Coverage Results" MODIFIED="1637337288439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW3" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$leap_year.coverage" NAME="leap_year Coverage Results" MODIFIED="1636543431066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$Increment_a_number.coverage" NAME="Increment_a_number Coverage Results" MODIFIED="1637311892409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW2" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$below_arithmetical_mean.coverage" NAME="below_arithmetical_mean Coverage Results" MODIFIED="1637327199255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW3" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$move_zeros.coverage" NAME="move_zeros Coverage Results" MODIFIED="1637325991105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_3" />
+    <SUITE FILE_PATH="coverage/algorithmsrepo$enunarate_all_primes_to_n.coverage" NAME="enunarate_all_primes_to_n Coverage Results" MODIFIED="1637350652783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_4" />
+    <SUITE FILE_PATH="coverage/algorithmsrepo$sum_between_min_and_max.coverage" NAME="sum_between_min_and_max Coverage Results" MODIFIED="1637344266231" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_4" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$swap_two_variables.coverage" NAME="swap_two_variables Coverage Results" MODIFIED="1636535153616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$lesson2.coverage" NAME="lesson2 Coverage Results" MODIFIED="1636968821252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
+    <SUITE FILE_PATH="coverage/algorithmsrepo$max_item_and_index_in_list.coverage" NAME="max_item_and_index_in_list Coverage Results" MODIFIED="1637338449290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_4" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$sum_of_three.coverage" NAME="sum_of_three Coverage Results" MODIFIED="1636540790016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1636537861842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$reverse_integer.coverage" NAME="reverse_integer Coverage Results" MODIFIED="1636981950560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson 2" />
