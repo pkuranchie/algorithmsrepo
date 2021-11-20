@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="436250fd-bece-49c8-a4ab-98468b5472b4" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo/Lesson_5/merge_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo/Lesson_5/merge_sort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algo/Lesson_5/selection_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/algo/Lesson_5/selection_sort.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +75,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/Lesson_5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/HW5" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/Lesson_5/bubble_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/HW5/bubble_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,13 +97,35 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/HW5" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/HW5/insertion_sort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="merge_sort (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/bin/python" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/Lesson_5" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/Lesson_5/insertion_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/Lesson_5/merge_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,13 +141,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/Lesson_5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/HW5" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/Lesson_5/merge_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/HW5/merge_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,42 +178,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="selection_sort (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/Lesson_5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/HW5" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/Lesson_5/recursion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="selection_sort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algo/Lesson_5" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/Lesson_5/selection_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algo/HW5/selection_sort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,10 +203,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.merge_sort" />
-        <item itemvalue="Python.recursion" />
         <item itemvalue="Python.insertion_sort" />
+        <item itemvalue="Python.merge_sort (1)" />
         <item itemvalue="Python.bubble_sort" />
-        <item itemvalue="Python.selection_sort" />
+        <item itemvalue="Python.selection_sort (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +221,7 @@
       <workItem from="1636446447684" duration="416000" />
       <workItem from="1636452542592" duration="40237000" />
       <workItem from="1636982581243" duration="495000" />
-      <workItem from="1637310390846" duration="33260000" />
+      <workItem from="1637310390846" duration="35787000" />
     </task>
     <servers />
   </component>
@@ -298,16 +300,17 @@
     <SUITE FILE_PATH="coverage/algorithmsrepo$odd_even_numbers.coverage" NAME="odd_even_numbers Coverage Results" MODIFIED="1636965832978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW1" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1636546781383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$palindrome.coverage" NAME="palindrome Coverage Results" MODIFIED="1636977839094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
-    <SUITE FILE_PATH="coverage/algorithmsrepo$selection_sort.coverage" NAME="selection_sort Coverage Results" MODIFIED="1637362478960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_5" />
-    <SUITE FILE_PATH="coverage/algorithmsrepo$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1637362933610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_5" />
+    <SUITE FILE_PATH="coverage/algorithmsrepo$selection_sort.coverage" NAME="selection_sort Coverage Results" MODIFIED="1637365382279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_5" />
+    <SUITE FILE_PATH="coverage/algorithmsrepo$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1637366058680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW5" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$largest_continuous_sum.coverage" NAME="largest_continuous_sum Coverage Results" MODIFIED="1637323321769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_3" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$mountain_array.coverage" NAME="mountain_array Coverage Results" MODIFIED="1637325153333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_3" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$increment_a_number.coverage" NAME="increment_a_number Coverage Results" MODIFIED="1637361551575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW4" />
+    <SUITE FILE_PATH="coverage/algorithmsrepo$selection_sort__1_.coverage" NAME="selection_sort (1) Coverage Results" MODIFIED="1637365821712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW5" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$even_first.coverage" NAME="even_first Coverage Results" MODIFIED="1637360486480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW4" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$almost_palindrome.coverage" NAME="almost_palindrome Coverage Results" MODIFIED="1636979307001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$max_number.coverage" NAME="max_number Coverage Results" MODIFIED="1636551110601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW1" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$reverse_string.coverage" NAME="reverse_string Coverage Results" MODIFIED="1636979736477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
-    <SUITE FILE_PATH="coverage/algorithmsrepo$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1637364425255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_5" />
+    <SUITE FILE_PATH="coverage/algorithmsrepo$merge_sort.coverage" NAME="merge_sort Coverage Results" MODIFIED="1637366944380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW5" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$delete_duplicates_from_sorted_array.coverage" NAME="delete_duplicates_from_sorted_array Coverage Results" MODIFIED="1637347673255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_4" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$sum_and_multiplication_list.coverage" NAME="sum_and_multiplication_list Coverage Results" MODIFIED="1637337995811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_4" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$Even_First.coverage" NAME="Even_First Coverage Results" MODIFIED="1637311202114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW2" />
@@ -317,7 +320,8 @@
     <SUITE FILE_PATH="coverage/algorithmsrepo$buy_and_sell_stock.coverage" NAME="buy_and_sell_stock Coverage Results" MODIFIED="1637351390427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_4" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$sum_of_digits.coverage" NAME="sum_of_digits Coverage Results" MODIFIED="1636549439323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW1" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$string_compression.coverage" NAME="string_compression Coverage Results" MODIFIED="1636981348584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
-    <SUITE FILE_PATH="coverage/algorithmsrepo$lesson_4_lists.coverage" NAME="lesson_4_lists Coverage Results" MODIFIED="1637321328725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_3" />
+    <SUITE FILE_PATH="coverage/algorithmsrepo$lesson_4_lists.coverage" NAME="lesson_4_lists Coverage Results" MODIFIED="1637365247750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_3" />
+    <SUITE FILE_PATH="coverage/algorithmsrepo$merge_sort__1_.coverage" NAME="merge_sort (1) Coverage Results" MODIFIED="1637366513874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_5" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$anagram.coverage" NAME="anagram Coverage Results" MODIFIED="1636969146116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$two_lowest_elements.coverage" NAME="two_lowest_elements Coverage Results" MODIFIED="1637337288439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW3" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$leap_year.coverage" NAME="leap_year Coverage Results" MODIFIED="1636543431066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
@@ -330,9 +334,9 @@
     <SUITE FILE_PATH="coverage/algorithmsrepo$lesson2.coverage" NAME="lesson2 Coverage Results" MODIFIED="1636968821252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$max_item_and_index_in_list.coverage" NAME="max_item_and_index_in_list Coverage Results" MODIFIED="1637338449290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_4" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$sum_of_three.coverage" NAME="sum_of_three Coverage Results" MODIFIED="1636540790016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
-    <SUITE FILE_PATH="coverage/algorithmsrepo$insertion_sort.coverage" NAME="insertion_sort Coverage Results" MODIFIED="1637363603298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_5" />
+    <SUITE FILE_PATH="coverage/algorithmsrepo$insertion_sort.coverage" NAME="insertion_sort Coverage Results" MODIFIED="1637366773849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/HW5" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$factorial.coverage" NAME="factorial Coverage Results" MODIFIED="1636537861842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo" />
-    <SUITE FILE_PATH="coverage/algorithmsrepo$reverse_integer.coverage" NAME="reverse_integer Coverage Results" MODIFIED="1636981950560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson 2" />
     <SUITE FILE_PATH="coverage/algorithmsrepo$find_the_missing_element.coverage" NAME="find_the_missing_element Coverage Results" MODIFIED="1637322633858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_3" />
+    <SUITE FILE_PATH="coverage/algorithmsrepo$reverse_integer.coverage" NAME="reverse_integer Coverage Results" MODIFIED="1637364859287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algo/Lesson_2" />
   </component>
 </project>

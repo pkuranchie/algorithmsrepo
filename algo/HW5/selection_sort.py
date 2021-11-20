@@ -8,10 +8,10 @@ def selection_sort(arr):
                 min_index = j
         arr[i], arr[min_index] = arr[min_index], arr[i]
 
-    return arr
+    print(f'Original Sort: {arr}')
+    return f'Descending Order: {arr[::-1]}'
 
 
 test_list = [2, 7, 6, 1, 10, 5, 4, 8]
 print(test_list)
 print(selection_sort(test_list))
-
